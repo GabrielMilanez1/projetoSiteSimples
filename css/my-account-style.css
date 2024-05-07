@@ -1,0 +1,26 @@
+.informations-container {
+  padding-top: 2em;
+  width: 25%;
+  display: flex;
+  gap: 1px;
+  flex-direction: column;
+}
+
+.content-container {
+  display: flex;
+  justify-content: center;
+}
+
+.information-field {
+  font-size: 20px;
+  font-family: 'Math';
+}
+.information-label {
+  font-size: 25px;
+  font-family: 'Math';
+  font-weight: 600;
+}
+
+.ver-senha {
+  cursor: pointer;
+}

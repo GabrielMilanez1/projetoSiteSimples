@@ -1,0 +1,9 @@
+.tabela-ra {
+  width: 30%;
+}
+
+.tabela-ra-container {
+  display: flex;
+  justify-content: center;
+  padding-top: 2em;
+}

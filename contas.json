@@ -1,0 +1,14 @@
+{
+   "primeiro_login": {
+      "username": "admin",
+      "password": "admin",
+   },
+   "segundo_login": {
+      "username": "admin2",
+      "password": "admin2",
+   }
+   "terceiro_login": {
+      "username": "admin3",
+      "password": "admin3",
+   }
+}

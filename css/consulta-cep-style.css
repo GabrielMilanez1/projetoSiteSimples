@@ -1,0 +1,27 @@
+.titulo {
+  padding-top: 2em;
+}
+
+h4 {
+  text-align: center;
+  font-family: 'Math';
+}
+
+.form-container {
+  display: flex;
+  justify-content: center;
+  padding-top: 2em;
+}
+
+.result-container {
+  display: flex;
+  justify-content: center;
+  padding-top: 2em;
+}
+
+.fields-container {
+  display: flex;
+  flex-direction: column;
+  width: 30%;
+}
+
