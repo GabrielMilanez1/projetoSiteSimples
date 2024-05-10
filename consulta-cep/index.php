@@ -24,7 +24,7 @@ $consulta_cep_erro = !isset($infos_cep->cep);
   <body>
 
     <div class="titulo">
-      <h4>Busca reversa por CEP</h4>
+      <h4>Busca por CEP</h4>
     </div>
     
     <div class="form-container">

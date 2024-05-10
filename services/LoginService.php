@@ -51,28 +51,28 @@ Class LoginService
     $integrantes_do_grupo_by_username = 
     [
         'admin' => [
-          ['nome' => 'Nome Do Integrante', 'RA' => 1010101010],
-          ['nome' => 'Nome Do Integrante', 'RA' => 1010101010],
-          ['nome' => 'Nome Do Integrante', 'RA' => 1010101010],
-          ['nome' => 'Nome Do Integrante', 'RA' => 1010101010],
-          ['nome' => 'Nome Do Integrante', 'RA' => 1010101010],
-          ['nome' => 'Nome Do Integrante', 'RA' => 1010101010],
+          ['nome' => 'Gabriel Milanez Rodrigues', 'RA' => 3021101893],
+          ['nome' => 'Lucas Falcão Cordó', 'RA' => 3022202920],
+          ['nome' => 'Pedro Lucas de Alcantara', 'RA' => 3023103689],
+          ['nome' => 'Barbara de Lima Guimarães Santos', 'RA' => 3022100306],
+          ['nome' => 'Wendel Perli Feitosa', 'RA' => 3022201926],
+          ['nome' => 'Giovanna Gabriella dos Santos Ferreira', 'RA' => 3024103149]
         ],
         'admin2' => [
-          ['nome' => 'Nome Do Integrante', 'RA' => 1010101010],
-          ['nome' => 'Nome Do Integrante', 'RA' => 1010101010],
-          ['nome' => 'Nome Do Integrante', 'RA' => 1010101010],
-          ['nome' => 'Nome Do Integrante', 'RA' => 1010101010],
-          ['nome' => 'Nome Do Integrante', 'RA' => 1010101010],
-          ['nome' => 'Nome Do Integrante', 'RA' => 1010101010],
+          ['nome' => 'Gabriel Milanez Rodrigues', 'RA' => 3021101893],
+          ['nome' => 'Lucas Falcão Cordó', 'RA' => 3022202920],
+          ['nome' => 'Pedro Lucas de Alcantara', 'RA' => 3023103689],
+          ['nome' => 'Barbara de Lima Guimarães Santos', 'RA' => 3022100306],
+          ['nome' => 'Wendel Perli Feitosa', 'RA' => 3022201926],
+          ['nome' => 'Giovanna Gabriella dos Santos Ferreira', 'RA' => 3024103149]
         ], 
         'admin3' => [
-          ['nome' => 'Nome Do Integrante', 'RA' => 1010101010],
-          ['nome' => 'Nome Do Integrante', 'RA' => 1010101010],
-          ['nome' => 'Nome Do Integrante', 'RA' => 1010101010],
-          ['nome' => 'Nome Do Integrante', 'RA' => 1010101010],
-          ['nome' => 'Nome Do Integrante', 'RA' => 1010101010],
-          ['nome' => 'Nome Do Integrante', 'RA' => 1010101010],
+          ['nome' => 'Gabriel Milanez Rodrigues', 'RA' => 3021101893],
+          ['nome' => 'Lucas Falcão Cordó', 'RA' => 3022202920],
+          ['nome' => 'Pedro Lucas de Alcantara', 'RA' => 3023103689],
+          ['nome' => 'Barbara de Lima Guimarães Santos', 'RA' => 3022100306],
+          ['nome' => 'Wendel Perli Feitosa', 'RA' => 3022201926],
+          ['nome' => 'Giovanna Gabriella dos Santos Ferreira', 'RA' => 3024103149]
         ]
     ];
 
